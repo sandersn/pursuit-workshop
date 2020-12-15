@@ -1,8 +1,7 @@
 ## Contents
 
 - Why Open Source
-  - Personally
-  - Corporations
+  - New To Industry
   - Typescript Team Perspective
 - How to Choose a Project
 - How to Get Started
@@ -22,13 +21,6 @@ You get experience with basic software engineering skills that are hard to teach
 Open source is a great way to round out an education, and companies know this.
 Downside is that it's basically "spec work" -- if you're in it to get experience, you can do a lot of work for free that ends up unused.
 
-### What Corporations Get From Open Source
-
-- Source code is often less valuable than the product's brand and its ecosystem.
-- Packages your program use are more reliable when they're open source -- you can submit your own fixes.
-- Pretty good for infrastructure, which
-- It's easier to build up fans for a software product.
-
 ### What I Get From Open Source
 
 As a full-time software engineer, the things I get from open source are a mix of the previous two.
@@ -40,7 +32,7 @@ As a full-time software engineer, the things I get from open source are a mix of
 - I get a chance to work on things I care about.
 - It's easier to learn by copying.
 
-The flip side: "Building your personal brand" is 21st-century-dystopian in which GoFundMe has replaced insurance. There's a chance it might turn into something non-horrible in the next few generations, but it's more likely in Europe or a reformed China than the in the United States.
+The flip side: "Building your personal brand" is 21st-century-dystopian in the world where GoFundMe is displacing insurance. There's a chance it might turn into something non-horrible in the next few generations.
 
 ## How to choose a project
 
