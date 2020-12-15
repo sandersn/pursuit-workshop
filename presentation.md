@@ -42,7 +42,19 @@ The flip side: "Building your personal brand" is 21st-century-dystopian in the w
 
 Now let's look at Typescript, an 8-year-old compiler with one file that's 35,000 lines long!
 
-## How to get started
+## How to ask for help
+
+- First, look for a place to get help.
+  - Comment on the Github issue.
+  - Look for a discord.
+  - Look for a twitter handle of a maintainer
+    (This is better for small projects.)
+- State what you're trying to do
+- Copy links to what you read for help (this means you'll have to keep the tabs open)
+- Copy commands that you ran or code you wrote
+- Show the bad output, along with what you expected to see
+
+## Demo Time
 
 - Find the README and CONTRIBUTING files
 - Install all the prerequisites.
@@ -59,18 +71,6 @@ Now let's look at Typescript, an 8-year-old compiler with one file that's 35,000
 - Go back to the source and try to make your change.
 - Repeat testing and changing code until the test passes.
 - Copy your test to a new test, revert the changes to the old test and rerun all the tests.
-
-## How to ask for help
-
-- First, look for a place to get help.
-  - Comment on the Github issue.
-  - Look for a discord.
-  - Look for a twitter handle of a maintainer
-    (This is better for small projects.)
-- State what you're trying to do
-- Copy links to what you read for help (this means you'll have to keep the tabs open)
-- Copy commands that you ran or code you wrote
-- Show the bad output, along with what you expected to see
 
 # Hands-on
 
