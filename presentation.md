@@ -23,7 +23,7 @@ Downside is that it's basically "spec work" -- if you're in it to get experience
 
 ### What I Get From Open Source
 
-As a full-time software engineer, the things I get from open source are a mix of the previous two.
+As a full-time software engineer, the things I get from open source are longer-term benefits.
 
 - Co-operation is important, even between companies.
 - Attribution is important: authors have a chance to benefit from their work even if a corporation owns it.
@@ -71,11 +71,3 @@ Now let's look at Typescript, an 8-year-old compiler with one file that's 35,000
 - Go back to the source and try to make your change.
 - Repeat testing and changing code until the test passes.
 - Copy your test to a new test, revert the changes to the old test and rerun all the tests.
-
-# Hands-on
-
-- Split into groups (maybe sign up beforehand)
-- Walk through set up for the repo
-- Choose an example bug? Or maybe each choose a bug.
-- Consider working in groups
-- Ask for help in common chat
