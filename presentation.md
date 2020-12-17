@@ -18,9 +18,6 @@ You get experience with basic software engineering skills that are hard to teach
 - Asking people for help when you need it.
 - Learning how projects are run, technically AND socially.
 
-Open source is a great way to round out an education, and companies know this.
-Downside is that it's basically "spec work" -- if you're in it to get experience, you can do a lot of work for free that ends up unused.
-
 ### What I Get From Open Source
 
 As a full-time software engineer, the things I get from open source are longer-term benefits.
@@ -32,15 +29,11 @@ As a full-time software engineer, the things I get from open source are longer-t
 - I get a chance to work on things I care about.
 - It's easier to learn by copying.
 
-The flip side: "Building your personal brand" is 21st-century-dystopian in the world where GoFundMe is displacing insurance. There's a chance it might turn into something non-horrible in the next few generations.
-
 ## How to choose a project
 
 - Choose something you use, in the language and ecosystem you know best
 - Think of a bug or missing feature, or check for "help wanted" bugs
 - Small and new is better because the code will be simpler, the bugs will be easier, and the contributions will be more noticeable.
-
-Now let's look at Typescript, an 8-year-old compiler with one file that's 35,000 lines long!
 
 ## How to ask for help
 
@@ -54,7 +47,7 @@ Now let's look at Typescript, an 8-year-old compiler with one file that's 35,000
 - Copy commands that you ran or code you wrote
 - Show the bad output, along with what you expected to see
 
-## Demo Time
+## How to Get Started
 
 - Find the README and CONTRIBUTING files
 - Install all the prerequisites.
