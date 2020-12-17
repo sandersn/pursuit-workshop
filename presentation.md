@@ -9,18 +9,18 @@
 
 ## Why Open Source
 
-### What You Get From Contributing to Open Source
+### What a Recent Graduate Gets From Contributing to Open Source
 
-You get experience with basic software engineering skills that are hard to teach in the classroom.
+You get experience with software engineering skills that are hard to teach in the classroom.
 
 - Working with people to find the right fix to a bug
 - Jumping into new code that you don't know.
 - Asking people for help when you need it.
 - Learning how projects are run, technically AND socially.
 
-### What I Get From Open Source
+### What an Experienced Engineer Gets From Open Source
 
-As a full-time software engineer, the things I get from open source are longer-term benefits.
+Experienced software engineers get longer-term benefits from open source as well.
 
 - Co-operation is important, even between companies.
 - Attribution is important: authors have a chance to benefit from their work even if a corporation owns it.
@@ -31,8 +31,8 @@ As a full-time software engineer, the things I get from open source are longer-t
 
 ## How to choose a project
 
-- Choose something you use, in the language and ecosystem you know best
-- Think of a bug or missing feature, or check for "help wanted" bugs
+- Choose something you use, in the language and ecosystem you know best.
+- Think of a bug or missing feature, or check for "help wanted" bugs.
 - Small and new is better because the code will be simpler, the bugs will be easier, and the contributions will be more noticeable.
 
 ## How to ask for help
@@ -43,7 +43,7 @@ As a full-time software engineer, the things I get from open source are longer-t
   - Look for a twitter handle of a maintainer
     (This is better for small projects.)
 - State what you're trying to do
-- Copy links to what you read for help (this means you'll have to keep the tabs open)
+- Copy links to what you read for help
 - Copy commands that you ran or code you wrote
 - Show the bad output, along with what you expected to see
 
@@ -52,7 +52,7 @@ As a full-time software engineer, the things I get from open source are longer-t
 - Find the README and CONTRIBUTING files
 - Install all the prerequisites.
 - Build and run all the tests. Make sure everything works.
-   If it doesn't, start asking for help, more on that in a minute.
+   If it doesn't, start asking for help, see above.
 - Find tests and deface one. Rebuild and test; make sure it fails.
 - Find the source and search for words that sound like your desired feature.
   This sounds stupid but it's how it works.
